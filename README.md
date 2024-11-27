@@ -10,18 +10,6 @@
 ### 📊 Statistic in GitHub
 
 ![Xounder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xounder&show_icons=true&theme=dracula)
-
-### 📌 Featured Projects  
-
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xounder&repo=minimal-api&theme=radical)  
-  
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xounder&repo=api-rest-spring&theme=radical)
-  
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xounder&repo=angular-buzzfeed&theme=radical)
-  
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xounder&repo=ShoesEcommerce&theme=radical)
-
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xounder&repo=Bokumon&theme=radical)  
   
 ### 🚀 Linguagens Mais Usadas
 
